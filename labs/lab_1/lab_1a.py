@@ -11,7 +11,7 @@ def main():
 
     name = "Dhairya Shah" # TODO: Insert your name between the double quotes
 
-    robot_speed = 5 # m/s
+    robot_speed = 3 # m/s
 
     print(f"{name}, Welcome to the CSS course!")
 
